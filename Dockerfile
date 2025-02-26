@@ -29,6 +29,4 @@ RUN chmod +x /ton/entrypoint.sh
 
 USER tonuser
 
-LABEL ton-repo-version="${TON_REPO_VERSION}"
-
 ENTRYPOINT ["sh", "/ton/entrypoint.sh"]
