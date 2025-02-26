@@ -10,7 +10,7 @@ Repository for automatically building new versions of ton-sites-proxy, based on 
 `curl -x 127.0.0.1:8080 http://foundation.ton`
 
 # Files
-* Dockerfile - hands build
+* Dockerfile - Build
 * ton-repo-version.txt - version for build
 
 # Addition Info
