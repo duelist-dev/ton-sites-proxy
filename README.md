@@ -11,7 +11,6 @@ Repository for automatically building new versions of ton-sites-proxy, based on 
 
 # Files
 * Dockerfile - hands build
-* ton-sites-proxy.ci - ci-cd build
 * ton-repo-version.txt - version for build
 
 # Addition Info
